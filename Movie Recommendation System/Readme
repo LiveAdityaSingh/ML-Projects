@@ -1,0 +1,6 @@
+Using Kaggle TMDB 5000 movie Dataset I created a recommendation model.
+
+Pickeled files:
+
+movies_list: List of movies in Dictionary form
+similarity: Similarity score for the movies in list
