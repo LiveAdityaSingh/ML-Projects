@@ -1,5 +1,14 @@
 SMS spam classifier model with TfidVectorizer(max_features=3000)
 
+Steps followed:
+1. Data Clean
+2. EDA
+3. Text Prprocessing
+4. Model Building
+5. Evaluation
+6. Evaluation
+7. Improvement
+
 Pickeled model:
 1.tfidf=vectorizer.pkl
 2.Multinomial Naive Bayes=model.pkl
