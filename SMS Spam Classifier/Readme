@@ -1,0 +1,5 @@
+SMS spam classifier model with TfidVectorizer(max_features=3000)
+
+Pickeled model:
+1.tfidf=vectorizer.pkl
+2.Multinomial Naive Bayes=model.pkl
